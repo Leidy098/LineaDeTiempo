@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     LineaDeTiempo lineaDeTiempo;
-    for (int i = 0; i < 100; ++i) {
+    for (int i = 0; i < 22; ++i) {
        lineaDeTiempo.agregarNodoAleatorio();
     }
     lineaDeTiempo.imprimirEventos();
