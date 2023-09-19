@@ -1,0 +1,3 @@
+C:/Users/leidy/OneDrive - Universidad EAFIT/INGENIERIA DE SISTEMAS/2023-2/Lenguajes de Programación/PRACTICAS/PRACTICA 1/Maquina Del Tiempo/cmake-build-debug/CMakeFiles/Maquina_Del_Tiempo.dir
+C:/Users/leidy/OneDrive - Universidad EAFIT/INGENIERIA DE SISTEMAS/2023-2/Lenguajes de Programación/PRACTICAS/PRACTICA 1/Maquina Del Tiempo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/leidy/OneDrive - Universidad EAFIT/INGENIERIA DE SISTEMAS/2023-2/Lenguajes de Programación/PRACTICAS/PRACTICA 1/Maquina Del Tiempo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
